@@ -1,0 +1,38 @@
+body {
+    background-color: beige;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.kaze {
+    padding-right: 68rem;
+    padding-left: 2rem;
+    
+}
+.kaze img {
+    height: 140px;
+}
+.navItems {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding-right: 2rem;
+}
+.navItems a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 2rem;
+    margin-bottom: 0.7rem;
+}
+.booking {
+    padding: 15px 40px;
+    color: black;
+    margin-top: 6rem;
+    margin-left: 50rem;
+    font-size: 30px;
+    text-align: center;
+    border-color: #d45a34;
+    border-radius: 12px;
+}
